@@ -1,7 +1,7 @@
 ![buildix (2)](https://user-images.githubusercontent.com/2136612/202675625-33bf1029-d9eb-47ce-b6a3-7161fe487850.jpeg)
 
 
-# About BUiLDIX
+## About BUiLDIX
 
 
 <!--
