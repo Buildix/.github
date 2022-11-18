@@ -1,4 +1,6 @@
-![buildix@1 3x (3)](https://user-images.githubusercontent.com/2136612/202672726-28db1b67-3eb8-4f85-918f-0997118bfa49.png)
+![buildix@1 3x (4)](https://user-images.githubusercontent.com/2136612/202674701-b716def7-f5bf-40b3-bd78-89a28ee480a2.png)
+
+# About BUiLDIX
 
 
 <!--
